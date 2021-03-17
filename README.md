@@ -1,4 +1,6 @@
 # 詳解：MATLAB の円グラフ（色設定）
+[![View Setting Default Colors of Pie Chart on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/88907-setting-default-colors-of-pie-chart)
+
 Copyright 2021 The MathWorks, Inc.
 # はじめに
 
