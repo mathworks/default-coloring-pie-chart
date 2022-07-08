@@ -14,7 +14,7 @@ Copyright 2021 The MathWorks, Inc.
 
 
 
-という点について紹介しています。MATLAB のグラフィックスオブジェクトを理解するネタになればうれしいです。参照：[グラフィックス オブジェクトの取り扱い](https://jp.mathworks.com/help/matlab/learn_matlab/understanding-handle-graphics-objects.html)
+という点について紹介しています。MATLAB のグラフィックスオブジェクトを理解するネタになればうれしいです。参照：[グラフィックス オブジェクトの階層](https://jp.mathworks.com/help/matlab/creating_plots/graphics-objects.html)
 
 
   
